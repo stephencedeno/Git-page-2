@@ -1,0 +1,22 @@
+h1, h2, h3, p, ol, ul, a {
+    color:white ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+body {background:#08045c url(/Users/stephencedeno/Desktop/Course/Pluralsight-Blog/images/Purple-mountain-wallpaper.jpeg) center center repeat ;}
+.links {
+    text-align: center;
+    color: white;
+    
+}
+a {
+    margin: 5px;
+    padding: 0 5px 0 5px; 
+    
+}
+.text {
+    background-color: grey;
+   height: 30px;
+}
